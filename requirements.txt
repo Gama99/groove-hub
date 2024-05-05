@@ -1,0 +1,3 @@
+Flask
+mfrc522
+spidev
